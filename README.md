@@ -2,9 +2,9 @@ Troca aqui!
 
 Equipa / Tarefas
 
-João Borges
-António Coelho
-Carina Pereira
+João Borges - Estruturação de base de dados e servidor, programação web
+António Coelho - Elaboração e análise de questionários, testes
+Carina Pereira - Criação de protótipos, elaboração de estilos
 
 1. Breve descrição
 
